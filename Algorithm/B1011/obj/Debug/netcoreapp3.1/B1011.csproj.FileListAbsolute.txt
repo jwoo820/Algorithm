@@ -1,0 +1,13 @@
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/bin/Debug/netcoreapp3.1/B1011.deps.json
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/bin/Debug/netcoreapp3.1/B1011.runtimeconfig.json
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/bin/Debug/netcoreapp3.1/B1011.runtimeconfig.dev.json
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/bin/Debug/netcoreapp3.1/B1011.dll
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/bin/Debug/netcoreapp3.1/B1011.pdb
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.csproj.AssemblyReference.cache
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.AssemblyInfoInputs.cache
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.AssemblyInfo.cs
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.csproj.CoreCompileInputs.cache
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.dll
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.pdb
+/Users/parkjungwoo/Documents/Source/Algorithm/Algorithm/B1011/obj/Debug/netcoreapp3.1/B1011.genruntimeconfig.cache
