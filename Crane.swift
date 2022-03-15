@@ -1,7 +1,8 @@
 //
 //  main.swift
 //  Crane
-//
+//  프로그래머스
+//  크레인 인형뽑기 게임
 //  Created by Park Jungwoo on 2022/03/14.
 //
 
