@@ -5,8 +5,8 @@ func solution(_ t:String, _ p:String) -> Int {
     var t = Array(t)
     
     for i in 0...t.count-p.count {
-        var word = Int(String(t[i...i+p.count - 1]))!
-        if word <= Int(p)! {
+        var word = String(t[i...i+p.count - 1])
+        if word <= p {
             count += 1
         }
     }
