@@ -21,11 +21,5 @@ func solution(_ number:Int, _ limit:Int, _ power:Int) -> Int {
         primeCount.append(count)
     }
 
-    var answer: [Int] = []
-
-    for num in primeCount {
-        answer.append(num > limit ? power : num)
-    }
-
-    return answer.reduce(0, +)
+    return primeCount.map{ $0 > limit ? power : $0 }.reduce(0, +)
 }
