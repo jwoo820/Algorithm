@@ -8,5 +8,5 @@ func solution(_ numbers:[Int]) -> [Int] {
         } 
     }
     
-    return Array(answer.sorted())
+    return answer.sorted()
 }
