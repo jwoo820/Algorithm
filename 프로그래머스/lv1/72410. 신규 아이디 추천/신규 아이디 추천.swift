@@ -29,10 +29,9 @@ func solution(_ new_id:String) -> String {
         }
     }
     // 7
-    if id.count < 3 {
-        while id.count != 3 {
+        while id.count < 3 {
             id.append(id.last!)
         }
-    }
+    
     return id
 }
