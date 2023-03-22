@@ -12,6 +12,7 @@ func solution(_ N:Int, _ number:Int) -> Int {
             }
             return
         }
+        // 5, 55, 555 처리 
         var nm = 0
         for i in 0..<8{
             nm = nm*10 + N
