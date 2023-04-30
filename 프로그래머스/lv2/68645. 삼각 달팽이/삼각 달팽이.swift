@@ -7,10 +7,9 @@ func solution(_ n:Int) -> [Int] {
         var arr = Array(repeating: 0, count: i)
         answer.append(arr)
     }
-    var index = 1
+    var index = 0
     var (x, y) = (-1, 0)
     
-    // 왼쪽 아래
     for i in 0..<n {
         for j in i..<n {
             if i%3 == 0 {
@@ -21,8 +20,8 @@ func solution(_ n:Int) -> [Int] {
                 x -= 1
                 y -= 1
             }
-            answer[x][y] = index
             index += 1
+            answer[x][y] = index
         }
     }
     
