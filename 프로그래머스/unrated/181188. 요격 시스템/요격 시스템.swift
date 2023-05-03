@@ -2,8 +2,8 @@ import Foundation
 
 func solution(_ targets:[[Int]]) -> Int {
     var targets = targets.sorted(by: {$0.last! < $1.last!})
+    // print(targets)
     var answer = 0
-    var s = 0
     var e = 0
     
     for target in targets {
