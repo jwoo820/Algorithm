@@ -1,2 +1,1 @@
-def solution(flo):
-    return int(flo)
+solution = lambda flo: int(flo)
